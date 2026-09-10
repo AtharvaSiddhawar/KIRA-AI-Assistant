@@ -48,7 +48,3 @@ Wake-word recognition will remain entirely local on the ESP32-S3.
 ## Project Status
 
 KIRA is under active development.
-
-The main firmware repository is currently kept private because it contains
-device-specific configuration and API integrations. This public repository
-is used for project documentation and development information.
